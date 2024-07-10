@@ -1,4 +1,4 @@
-## Pet Product Sales Analysis - Certification Project
+## Pet Product Sales Analysis - DataCamp Certification Project
 **Description:**
 
 This repository contains the file, code and visualizations used to analyze a pet product sales dataset for Datacamp certification project.
