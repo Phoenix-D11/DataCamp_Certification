@@ -1,11 +1,7 @@
-Pet Product Sales Analysis - Certification Project
-Description:
+## Pet Product Sales Analysis - Certification Project
+**Description:**
 
-This repository contains the code and visualizations used to analyze a pet product sales dataset for a certification project.
-
-Data Validation
-
-** data/clean_data.csv**
+This repository contains the file, code and visualizations used to analyze a pet product sales dataset for Datacamp certification project.
 
 The original dataset contained 879 rows and 9 columns. The data cleaning process involved the following steps documented in the script data_cleaning.py:
 
@@ -22,11 +18,7 @@ Rating: 10-point scale.
 Rebuy: Binary (1 or 0).
 Data Discovery & Visualization
 
-** visualizations/ (folder)**
-
-This section utilizes various visualizations within the visualizations folder to answer the customer's questions in the project brief.
-
-Single Variable Analysis:
+**Single Variable Analysis:**
 
 Distribution of Ratings: A histogram or box plot visualizes the distribution of product ratings (e.g., rating_distribution.png). This reveals if there's a skew towards high or low ratings.
 Pet Type Breakdown: A bar chart shows the proportions of sales within each pet type category (e.g., pet_type_breakdown.png), indicating which pet category generates the most sales.
