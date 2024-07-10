@@ -18,22 +18,8 @@ Rating: 10-point scale.
 Rebuy: Binary (1 or 0).
 Data Discovery & Visualization
 
-**Single Variable Analysis:**
+**Analysis:**
 
-Distribution of Ratings: A histogram or box plot visualizes the distribution of product ratings (e.g., rating_distribution.png). This reveals if there's a skew towards high or low ratings.
-Pet Type Breakdown: A bar chart shows the proportions of sales within each pet type category (e.g., pet_type_breakdown.png), indicating which pet category generates the most sales.
-Relationship Analysis:
-
-Rating vs. Rebuy Rate: A scatter plot explores the relationship between product rating and the likelihood of a repeat purchase (e.g., rating_vs_rebuy.png). This might reveal if higher-rated products have a higher rebuy rate.
-Answering Business Questions:
-
-By analyzing the cleaned data and creating visualizations, we can answer the following business questions from the project brief (replace these with the specific questions from your project):
-
-What are the most popular pet categories? (Bar chart of pet type breakdown)
-Do customers tend to repurchase higher-rated products? (Scatter plot of rating vs. rebuy rate)
-Further Exploration:
-
-This repository provides a starting point for further analysis. You can explore additional questions by creating more visualizations and performing statistical tests.
 
 Tools Used:
 
